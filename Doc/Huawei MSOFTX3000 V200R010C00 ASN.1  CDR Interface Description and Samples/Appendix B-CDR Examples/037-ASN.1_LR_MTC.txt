@@ -1,0 +1,26 @@
+cdr_type: mtLCSRecord
+recordType:17
+recordingEntity:(91)86136755008
+lcsClientType:01
+lcsClientIdentity:(A0)9008701986136030755
+servedIMSI:460003362009001
+servedMSISDN:(91)8613633629001
+locationType:800100
+lcsPriority:01
+mlc-Number:(91)86136030755
+eventTimeStamp:0712251153362B0800
+measureDuration:01
+notificationToMSUser:03
+location:(LAC: 66 02	CELLID: 00 01)
+locationEstimate:0020B60B53E93E
+positioningData:00
+systemType:01
+causeForTerm:00
+additionalChgInfo:( 02)
+chargedParty:01
+orgRNCorBSCId:720C
+orgMSCId:600C
+globalAreaID:64F00066020001
+subscriberCategory:0A
+firstmccmnc:64F000
+callReference:65000000F2

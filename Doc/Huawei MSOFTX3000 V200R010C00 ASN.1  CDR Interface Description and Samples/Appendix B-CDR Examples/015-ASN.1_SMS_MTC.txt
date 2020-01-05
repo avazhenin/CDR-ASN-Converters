@@ -1,0 +1,24 @@
+cdr_type: mtSMSRecord
+recordType:07
+serviceCentre:91683109250253
+servedIMSI:460077552000226
+servedMSISDN:(91)8613905220226
+msClassmark:231801
+recordingEntity:(91)8613900022
+location:(LAC: 00 94	CELLID: 00 94)
+deliveryTime:2001-03-05 10:13:51 + 0800
+systemType:02
+basicService:( 21)
+additionalChgInfo:800102
+chargedParty:01
+chargeAreaCode:000000
+orgRNCorBSCId:009400
+globalAreaID:64F00000940094
+subscriberCategory:0A
+firstmccmnc:64F000
+smsUserDataType:FF
+origination:91683109250222F5
+callReference:00160001FE40
+typeOfSubscribers:01
+recordNumber:130915
+chargeLevel:00

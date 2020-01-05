@@ -1,0 +1,25 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x18
+CDR_TYPE: MTRFCallRecord
+recordType: 58
+servedIMSI: 470012159200633
+servedIMEI: 
+servedMSISDN: (91)8623321987133
+callingNumber: (A1)23311592023
+roamingNumber: (A1)13971341247
+recordingEntity: (91)8613971311
+mscIncomingROUTE: ROUTE_NAME:TO_MSC02_ISUP
+mscOutgoingROUTE: ROUTE_NAME:TO_MSC02_ISUP
+basicService: (11)
+answerTime: 2013-03-27 17:55:04+08:00 0
+releaseTime: 2013-03-27 17:55:09+08:00 0
+callDuration: 554
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 03E8000011A4
+networkCallReference: 0079881113
+callType: 4
+recordNumber: 68944598
+chargeLevel: 1
+**************************The End of CDR 1**************************
+

@@ -1,0 +1,26 @@
+cdr_type: moSMSRecord
+recordType:06
+servedIMSI:460111104000084
+servedIMEI:354595000249070
+servedMSISDN:(91)8613712345100
+msClassmark:575881
+serviceCentre:(91)9715012349
+recordingEntity:(91)8613780352
+location:(LAC: 00 10	CELLID: 00 10)
+messageReference:37
+originationTime:2008-02-23 19:10:47 + 0800
+destinationNumber:(81)13712345000
+systemType:01
+basicService:( 22)
+additionalChgInfo:( 02)
+chargedParty:00
+orgRNCorBSCId:1033
+orgMSCId:2033
+globalAreaID:64F00100100010
+subscriberCategory:0A
+firstmccmnc:64F001
+smsUserDataType:FF
+maximumNumberOfSMSInTheConcatenatedSMS:04
+concatenatedSMSReferenceNumber:03
+sequenceNumberOfTheCurrentSMS:04
+callReference:1600000024

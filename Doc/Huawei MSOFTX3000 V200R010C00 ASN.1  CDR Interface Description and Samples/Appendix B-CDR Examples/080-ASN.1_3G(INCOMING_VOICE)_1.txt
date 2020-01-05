@@ -1,0 +1,42 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: IncGatewayRecord
+recordType: 03
+callingNumber: (A1)13905220201
+calledNumber: (A1)13905220202
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:TO-ATCA}
+mscOutgoingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+seizureTime: 2000-09-28 10:32:24 + 0800
+answerTime: 2000-09-28 10:32:25 + 0800
+releaseTime: 2000-09-28 10:32:26 + 0800
+callDuration: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E3F
+basicService: (11)
+additionalChgInfo: (02)
+chargeAreaCode: 000000
+roamingNumber: (A1)13900022031
+mscIncomingCircuit: 167(Decimal)
+orgMSCId: 0800AA
+callEmlppPriority: 01
+callerportedflag: 00(Decimal)
+cUGOutgoingAccessIndicator: 00
+mscIncomingRouteAttribute: 02(Decimal)
+networkCallReference: 1600C40800AA
+setupTime: 2000-09-28 10:32:22 + 0800
+alertingTime: 2000-09-28 10:32:24 + 0800
+bCategory: 00(Decimal)
+callType: 02(Decimal)
+disconnectparty: 00(Decimal)
+audioDataType: 00(Decimal)
+recordNumber: 21(Decimal)
+chargeLevel: 00(Decimal)
+location: (LAC: 00 95	CELLID: 00 95)
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+**************************The End of CDR 1**************************
+

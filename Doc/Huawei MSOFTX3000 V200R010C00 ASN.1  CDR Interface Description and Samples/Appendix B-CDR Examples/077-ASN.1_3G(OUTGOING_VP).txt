@@ -1,0 +1,98 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: OutGatewayRecord
+recordType: 04
+callingNumber: (A1)13905220201
+calledNumber: (81)13905220202
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:TO-ATCA}
+seizureTime: 2000-09-28 10:23:16 + 0800
+answerTime: 2000-09-28 10:23:19 + 0800
+releaseTime: 2000-09-28 10:23:20 + 0800
+callDuration: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E37
+basicService: (1F)
+additionalChgInfo: (02)
+chargeAreaCode: 000000
+mscOutgoingCircuit: 164(Decimal)
+orgMSCId: 0800AA
+callEmlppPriority: 01
+callerportedflag: 00(Decimal)
+cUGOutgoingAccessIndicator: 00
+mscOutgoingRouteAttribute: 02(Decimal)
+networkCallReference: 1600B40800AA
+setupTime: 2000-09-28 10:23:15 + 0800
+alertingTime: 2000-09-28 10:23:19 + 0800
+bCategory: 00(Decimal)
+callType: 03(Decimal)
+disconnectparty: 00(Decimal)
+recordNumber: 13(Decimal)
+chargeLevel: 00(Decimal)
+location: (LAC: 00 95	CELLID: 00 95)
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+**************************The End of CDR 1**************************
+
+*************************The Start of CDR 2*************************
+Start_addr:0x125
+CDR_TYPE: MOCallRecord
+recordType: 00
+servedIMSI: 460077552000201
+servedIMEI: 354595000180200
+servedMSISDN: (91)8613905220201
+callingNumber: (A1)13905220201
+calledNumber: (81)13905220202
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:TO-ATCA}
+location: (LAC: 00 95	CELLID: 00 95)
+basicService: (1F)
+transparencyIndicator: 00(Decimal)
+msClassmark: 201000
+seizureTime: 2000-09-28 10:23:16 + 0800
+answerTime: 2000-09-28 10:23:19 + 0800
+releaseTime: 2000-09-28 10:23:20 + 0800
+callDuration: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E38
+additionalChgInfo: (02)
+networkCallReference: 1600B40800AA
+mSCAddress: (91)8613900022
+fnur: 08(Decimal)
+systemType: 01(Decimal)
+rateIndication: 07
+guaranteedBitRate: 07(Decimal)
+maximumBitRate: 07(Decimal)
+chargedParty: 00(Decimal)
+mscOutgoingCircuit: 164(Decimal)
+orgRNCorBSCId: 009500
+orgMSCId: 00080A
+callerDefaultEmlppPriority: 01
+callerportedflag: 00(Decimal)
+globalAreaID: 64F00000950095
+subscriberCategory: 0B
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+setupTime: 2000-09-28 10:23:15 + 0800
+alertingTime: 2000-09-28 10:23:19 + 0800
+bCategory: 00(Decimal)
+callType: 03(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 14(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+**************************The End of CDR 2**************************
+

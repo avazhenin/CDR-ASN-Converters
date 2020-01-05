@@ -1,0 +1,22 @@
+cdr_type: ssActionRecord
+recordType:0A
+servedIMSI:460881104008809
+servedMSISDN:(91)8613905228809
+msClassmark:575881
+recordingEntity:(91)8613900022
+location:(LAC: 00 22	CELLID: 00 22)
+basicServices:( 10)
+supplService:21
+ssAction:00
+ssActionTime:2001-03-04 14:59:16 + 0800
+ssParameters:800881683108578218F9
+callReference:00160001FE25
+systemType:01
+additionalChgInfo:800101
+chargeAreaCode:000000
+orgRNCorBSCId:002200
+globalAreaID:64F04300220022
+subscriberCategory:02
+firstmccmnc:64F043
+typeOfSubscribers:01
+recordNumber:130881

@@ -1,0 +1,9 @@
+<root>
+	<parameters>
+		<cdrin>c:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\CDR ASN Converters\CDR Converter GSM\\cdrsin\</cdrin>
+		<cdrout>c:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\CDR ASN Converters\CDR Converter GSM\\cdrsout\</cdrout>
+		<cdroutext>csv</cdroutext>
+		<maxCDRFilesToRead>100</maxCDRFilesToRead>
+		<log4jPath>c:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\CDR ASN Converters\CDR Converter GSM\\log4j.properties</log4jPath>
+	</parameters>
+</root>

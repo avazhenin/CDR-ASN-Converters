@@ -1,0 +1,18 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x17
+CDR_TYPE: HLRIntRecord
+recordType: 0B
+servedIMSI: 470010000000001
+servedMSISDN: (91)8623300000001
+recordingEntity: (91)8613975205
+routingNumber: 
+{
+        RoamingNumber:(91)8613975205346
+}
+interrogationTime: 2009-09-24 23:20:05 + 1400
+chargeAreaCode: 000000
+orgMSCId: 005410
+callReference: 03E80000050B
+recordNumber: 01(Decimal)
+**************************The End of CDR 1**************************
+

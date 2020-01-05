@@ -1,0 +1,41 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: OutGatewayRecord
+recordType: 04
+callingNumber: (A1)0284210321
+calledNumber: (A1)28422321
+recordingEntity: (91)8613900023
+mscIncomingROUTE: {ROUTE_NAME:BICC_SCTP_01_02}
+mscOutgoingROUTE: {ROUTE_NAME:BICC_SCTP_01_01}
+answerTime: 2011-07-09 16:36:47+00:00 
+releaseTime: 2011-07-09 16:36:50+00:00 
+callDuration: 3
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 03E800000028
+basicService: (11)
+additionalChgInfo: (00)
+chargeAreaCode: 000000
+mscOutgoingCircuit: 19
+callEmlppPriority: 01
+callerportedflag: 0
+cUGOutgoingAccessIndicator: 00
+mscIncomingRouteAttribute: 4
+mscOutgoingRouteAttribute: 4
+networkCallReference: 16030E877998
+setupTime: 2011-07-09 16:36:46+00:00 
+alertingTime: 2011-07-09 16:36:47+00:00 
+bCategory: 0
+callType: 4
+disconnectparty: 0
+audioDataType: 0
+recordNumber: 1
+chargeLevel: 0
+calledportedflag: 0
+intermediateChargingInd: 0
+setupTimeMs: 2011-07-09 16:36:46.36+00:00 
+alertingTimeMs: 2011-07-09 16:36:47.26+00:00 
+answerTimeMs: 2011-07-09 16:36:47.26+00:00 
+releaseTimeMs: 2011-07-09 16:36:50.26+00:00 
+**************************The End of CDR 1**************************
+

@@ -1,0 +1,37 @@
+cdr_type: moCallRecord
+recordType:00
+servedIMSI:460111104000084
+servedIMEI:350016527891550
+servedMSISDN:(91)8613712345100
+callingNumber:(91)8613712345100
+calledNumber:(81)13712345000
+roamingNumber:(A1)13780352018
+recordingEntity:(91)8613780352
+mscIncomingROUTE:{BSC88}
+mscOutgoingROUTE:{BSC88}
+location:(LAC: 00 88	CELLID: 00 88)
+basicService:( 16)
+transparencyIndicator:01
+msClassmark:301881
+answerTime:2008-02-23 17:17:59 + 0800
+releaseTime:2008-02-23 17:18:56 + 0800
+callDuration:57
+causeForTerm:00
+diagnostics:( 00 90)
+callReference:6500000013
+additionalChgInfo:( 02)
+networkCallReference:6500E8200083
+mSCAddress:(91)8613780352
+systemType:02
+modemType:06
+classmark3:C000
+chargedParty:00
+mscOutgoingCircuit:0D
+orgRNCorBSCId:8833
+orgMSCId:2033
+callerDefaultEmlppPriority:01
+calledIMSI:424021104010000
+globalAreaID:64F08800880088
+subscriberCategory:0A
+firstmccmnc:64F088
+lastmccmnc:64F088

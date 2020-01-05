@@ -1,0 +1,186 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: MOCallRecord
+recordType: 00
+servedIMSI: 460077552000203
+servedIMEI: 354595000180200
+servedMSISDN: (91)8613905220203
+callingNumber: (A1)13905220203
+calledNumber: (81)13905220201
+connectedNumber: (A1)13905220202
+roamingNumber: (A1)13900022026
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+location: (LAC: 00 95	CELLID: 00 95)
+basicService: (1F)
+transparencyIndicator: 00(Decimal)
+msClassmark: 201000
+seizureTime: 2000-09-28 10:03:50 + 0800
+answerTime: 2000-09-28 10:03:58 + 0800
+releaseTime: 2000-09-28 10:03:59 + 0800
+callDuration: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E30
+additionalChgInfo: (02)
+networkCallReference: 1600A50800AA
+mSCAddress: (91)8613900022
+fnur: 08(Decimal)
+systemType: 01(Decimal)
+rateIndication: 07
+guaranteedBitRate: 07(Decimal)
+maximumBitRate: 07(Decimal)
+chargedParty: 00(Decimal)
+orgRNCorBSCId: 009500
+orgMSCId: 00080A
+callerDefaultEmlppPriority: 01
+callerportedflag: 00(Decimal)
+calledIMSI: 460077552000201
+globalAreaID: 64F00000950095
+subscriberCategory: 0A
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+setupTime: 2000-09-28 10:03:47 + 0800
+alertingTime: 2000-09-28 10:03:50 + 0800
+bCategory: 00(Decimal)
+callType: 03(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 06(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+calledIMEI: 354595000180200
+**************************The End of CDR 1**************************
+
+*************************The Start of CDR 2*************************
+Start_addr:0x1ba
+CDR_TYPE: ForwardCallRecord
+recordType: 64
+servedIMSI: 460077552000201
+servedIMEI: 354595000180200
+servedMSISDN: (91)8613905220201
+callingNumber: (A1)13905220203
+calledNumber: (A1)13905220202
+connectedNumber: (A1)13905220202
+roamingNumber: (A1)13900022027
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+location: (LAC: 00 95	CELLID: 00 95)
+basicService: (1F)
+transparencyIndicator: 00(Decimal)
+supplServicesUsed: 
+{
+        {SSCode:2A ssTime:2000-09-28 10:03:58 + 0800}
+}
+msClassmark: 000800
+answerTime: 2000-09-28 10:03:58 + 0800
+releaseTime: 2000-09-28 10:03:59 + 0800
+callDuration: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E31
+additionalChgInfo: (02)
+networkCallReference: 1600A50800AA
+mSCAddress: (91)8613900022
+fnur: 08(Decimal)
+systemType: 01(Decimal)
+rateIndication: 07
+chargedParty: 00(Decimal)
+originalCalledNumber: (A1)13905220201
+orgRNCorBSCId: 009500
+orgMSCId: 00080A
+callerDefaultEmlppPriority: 01
+callerportedflag: 00(Decimal)
+calledIMSI: 460077552000202
+globalAreaID: 64F00000950095
+subscriberCategory: 0B
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+setupTime: 2000-09-28 10:03:55 + 0800
+alertingTime: 2000-09-28 10:03:58 + 0800
+bCategory: 00(Decimal)
+callType: 01(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 07(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+calledIMEI: 354595000180200
+**************************The End of CDR 2**************************
+
+*************************The Start of CDR 3*************************
+Start_addr:0x365
+CDR_TYPE: MTCallRecord
+recordType: 01
+servedIMSI: 460077552000202
+servedIMEI: 354595000180200
+servedMSISDN: (91)8613905220202
+callingNumber: (A1)13905220203
+connectedNumber: (A1)13905220202
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+location: (LAC: 00 95	CELLID: 00 95)
+basicService: (1F)
+transparencyIndicator: 00(Decimal)
+msClassmark: 000800
+seizureTime: 2000-09-28 10:03:58 + 0800
+answerTime: 2000-09-28 10:03:58 + 0800
+releaseTime: 2000-09-28 10:03:59 + 0800
+callDuration: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E32
+additionalChgInfo: (02)
+networkCallReference: 1600A50800AA
+mSCAddress: (91)8613900022
+fnur: 08(Decimal)
+systemType: 01(Decimal)
+rateIndication: 07
+guaranteedBitRate: 07(Decimal)
+maximumBitRate: 07(Decimal)
+chargedParty: 01(Decimal)
+originalCalledNumber: (A1)13905220201
+chargeAreaCode: 86755F
+roamingNumber: (A1)13900022027
+orgRNCorBSCId: 009500
+orgMSCId: 00080A
+callEmlppPriority: 01
+callerportedflag: 00(Decimal)
+globalAreaID: 64F00000950095
+subscriberCategory: 0B
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+redirectingnumber: (A1)13905220201
+setupTime: 2000-09-28 10:03:55 + 0800
+alertingTime: 2000-09-28 10:03:58 + 0800
+calledNumber: (A1)13905220202
+bCategory: 00(Decimal)
+callType: 01(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 08(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+**************************The End of CDR 3**************************
+

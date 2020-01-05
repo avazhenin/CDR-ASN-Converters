@@ -1,0 +1,56 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: MOCallRecord
+recordType: 00
+servedIMSI: 460077552000201
+servedIMEI: 354595000180200
+servedMSISDN: (91)8613905220201
+callingNumber: (A1)13905220201
+calledNumber: (81)13905220202
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:OFC_RNC_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:TO-ATCA}
+location: (LAC: 00 95	CELLID: 00 95)
+basicService: (11)
+msClassmark: 201000
+seizureTime: 2000-09-28 10:25:33 + 0800
+answerTime: 2000-09-28 10:25:36 + 0800
+releaseTime: 2000-09-28 10:25:37 + 0800
+callDuration: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E3A
+additionalChgInfo: (02)
+networkCallReference: 1600B90800AA
+mSCAddress: (91)8613900022
+systemType: 01(Decimal)
+guaranteedBitRate: 113(Decimal)
+maximumBitRate: 106(Decimal)
+chargedParty: 00(Decimal)
+mscOutgoingCircuit: 166(Decimal)
+orgRNCorBSCId: 009500
+orgMSCId: 00080A
+callerDefaultEmlppPriority: 01
+callerportedflag: 00(Decimal)
+globalAreaID: 64F00000950095
+subscriberCategory: 0B
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+setupTime: 2000-09-28 10:25:33 + 0800
+alertingTime: 2000-09-28 10:25:36 + 0800
+bCategory: 00(Decimal)
+callType: 03(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+audioDataType: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 16(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+**************************The End of CDR 1**************************
+

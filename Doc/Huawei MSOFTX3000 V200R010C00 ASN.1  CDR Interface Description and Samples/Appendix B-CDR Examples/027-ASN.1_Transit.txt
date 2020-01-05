@@ -1,0 +1,37 @@
+cdr_type: transitRecord
+recordType:05
+recordingEntity:(91)8613900022
+mscIncomingROUTE:( 53 43 54 50 5F 49 4E)
+mscOutgoingROUTE:( 53 43 54 50 5F 4F 55 54)
+callingNumber:(A1)13905520464
+calledNumber:(A1)5013905228809
+answerTime:2001-03-04 15:45:55 + 0800
+releaseTime:2001-03-04 15:46:03 + 0800
+callDuration:08
+causeForTerm:00
+diagnostics:80020090
+callReference:00160001FE2C
+basicService:( 11)
+additionalChgInfo:800102
+chargeAreaCode:000000
+mscOutgoingCircuit:16
+mscIncomingCircuit:14
+callEmlppPriority:01
+subscriberCategory:0A
+mscIncomingRouteAttribute:04
+mscOutgoingRouteAttribute:04
+networkCallReference:1602220800AA
+setupTime:2001-03-04 15:45:50 + 0800
+alertingTime:2001-03-04 15:45:53 + 0800
+bCategory:00
+callType:04
+disconnectparty:00
+audioDataType:00
+recordNumber:130888
+chargeLevel:00
+translatedNumber:(A1)13905228809
+cmnFlag:00
+intermediateChargingInd:00
+mscOutgoingROUTENumber:43
+mscIncomingROUTENumber:02
+redirectingCounter:00

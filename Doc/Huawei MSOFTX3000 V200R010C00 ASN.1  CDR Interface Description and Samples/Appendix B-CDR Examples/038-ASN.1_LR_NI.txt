@@ -1,0 +1,26 @@
+cdr_type: niLCSRecord
+recordType:19
+recordingEntity:(91)86136755008
+lcsClientType:00
+lcsClientIdentity:(A0)400820191
+servedIMSI:460003362009001
+servedMSISDN:(91)8613633629001
+emsDigits:(A1)112
+emsKey:8111F2
+lcsPriority:01
+mlc-Number:(91)86136030755
+eventTimeStamp:0712231656012B0800
+measureDuration:04
+location:(LAC: 66 02	CELLID: 00 01)
+locationEstimate:0020B60B53E93E
+positioningData:00
+systemType:01
+causeForTerm:00
+additionalChgInfo:( 02)
+chargedParty:00
+orgRNCorBSCId:720C
+orgMSCId:600C
+globalAreaID:64F00066020001
+subscriberCategory:0A
+firstmccmnc:64F000
+callReference:65000000AC

@@ -1,0 +1,38 @@
+cdr_type: outGatewayRecord
+recordType:04
+callingNumber:(91)8613905520464
+calledNumber:(81)5013905228809
+recordingEntity:(91)8613900022
+mscIncomingROUTE:( 52 4E 43 33 34)
+mscOutgoingROUTE:( 53 43 54 50 5F 4F 55 54)
+seizureTime:2001-03-04 15:30:44 + 0800
+answerTime:2001-03-04 15:30:51 + 0800
+releaseTime:2001-03-04 15:30:54 + 0800
+callDuration:03
+causeForTerm:00
+diagnostics:80020090
+callReference:00160001FE2B
+basicService:( 11)
+additionalChgInfo:800102
+chargeAreaCode:000000
+mscOutgoingCircuit:02
+callEmlppPriority:01
+subscriberCategory:0A
+mscOutgoingRouteAttribute:04
+networkCallReference:1601D90800AA
+setupTime:2001-03-04 15:30:43 + 0800
+alertingTime:2001-03-04 15:30:47 + 0800
+bCategory:00
+callType:03
+disconnectparty:00
+audioDataType:00
+recordNumber:130887
+chargeLevel:00
+translatedNumber:(A1)13905228809
+location:(LAC: 00 22	CELLID: 00 22)
+firstmccmnc:64F043
+lastmccmnc:64F043
+intermediateChargingInd:00
+mscOutgoingROUTENumber:43
+mscIncomingROUTENumber:22
+redirectingCounter:00

@@ -1,0 +1,38 @@
+cdr_type: termCAMELRecord
+recordtype:11
+servedIMSI:460077552000230
+servedMSISDN:(91)8613905220230
+recordingEntity:(91)8613900022
+interrogationTime:2001-03-05 10:51:51 + 0800
+gsm-SCFAddress:(91)8613977888
+serviceKey:01
+networkCallReference:1608530800AA
+mSCAddress:916831090022
+calledNumber:(A1)13905220230
+callingNumber:(91)8613905220229
+mscIncomingROUTE:( 41 49 45 54 47 5F 42 49 4C 4C 41 55 54 4F)
+mscOutgoingROUTE:( 41 49 45 54 47 5F 42 49 4C 4C 41 55 54 4F)
+answerTime:2001-03-05 10:51:56 + 0800
+releaseTime:2001-03-05 10:52:00 + 0800
+callDuration:04
+causeForTerm:00
+diagnostics:8002009F
+callReference:00160001FE4A
+numberOfDPEncountered:02
+levelOfCAMELService:0340
+freeFormatData:65 43 21
+freeFormatDataAppend:FF
+basicService:( 11)
+additionalChgInfo:800102
+chargedParty:01
+chargeAreaCode:000000
+subscriberCategory:0A
+camelphase:03
+typeOfSubscribers:01
+userType:02
+recordNumber:130929
+chargeLevel:00
+intermediateChargingInd:00
+mscOutgoingROUTENumber:5E
+mscIncomingROUTENumber:5E
+chargePulses:00

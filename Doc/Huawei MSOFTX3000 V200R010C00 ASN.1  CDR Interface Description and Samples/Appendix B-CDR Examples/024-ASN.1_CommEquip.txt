@@ -1,0 +1,23 @@
+cdr_type: commonEquipRecord
+recordType:0E
+equipmentType:00
+equipmentId:1668
+servedIMSI:460077552000240
+servedMSISDN:(91)8613905220240
+recordingEntity:(91)8613900022
+basicService:( 11)
+supplServicesUsed:{{ssCode:51 ssTime:2001-03-05 10:21:43 + 0800}}
+seizureTime:2001-03-05 10:21:43 + 0800
+releaseTime:2001-03-05 10:22:07 + 0800
+callDuration:24
+callReference:00160001FE41
+systemType:02
+causeForTerm:00
+diagnostics:80020090
+servedIMEI:A10000000000000
+additionalChgInfo:800101
+chargeAreaCode:000000
+orgRNCorBSCId:009400
+subscriberCategory:0A
+recordNumber:130916
+chargeLevel:00

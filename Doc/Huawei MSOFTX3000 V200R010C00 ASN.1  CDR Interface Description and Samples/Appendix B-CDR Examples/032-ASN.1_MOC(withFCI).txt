@@ -1,0 +1,60 @@
+cdr_type: moCallRecord
+recordType:00
+servedIMSI:460077552000229
+servedMSISDN:(91)8613905220229
+callingNumber:(91)8613905220229
+calledNumber:(81)13905220230
+roamingNumber:(A1)13900022450
+recordingEntity:(91)8613900022
+mscIncomingROUTE:( 41 49 45 54 47 5F 42 49 4C 4C 41 55 54 4F)
+mscOutgoingROUTE:( 41 49 45 54 47 5F 42 49 4C 4C 41 55 54 4F)
+location:(LAC: 00 94	CELLID: 00 94)
+basicService:( 11)
+seizureTime:2001-03-05 10:47:12 + 0800
+answerTime:2001-03-05 10:47:13 + 0800
+releaseTime:2001-03-05 10:47:17 + 0800
+callDuration:04
+radioChanRequested:03
+radioChanUsed:00
+causeForTerm:00
+diagnostics:8002009F
+callReference:00160001FE49
+additionalChgInfo:800102
+gsm-SCFAddress:(91)8613977888
+serviceKey:01
+networkCallReference:16084E0800AA
+mSCAddress:916831090022
+speechVersionSupported:25
+speechVersionUsed:21
+numberOfDPEncountered:02
+levelOfCAMELService:0340
+freeFormatData:12 34 56
+freeFormatDataAppend:FF
+systemType:02
+chargedParty:00
+mscOutgoingCircuit:11
+orgRNCorBSCId:009400
+callEmlppPriority:01
+calledIMSI:460077552000230
+globalAreaID:64F00000940094
+subscriberCategory:0A
+firstmccmnc:64F000
+lastmccmnc:64F000
+setupTime:2001-03-05 10:47:05 + 0800
+alertingTime:2001-03-05 10:47:13 + 0800
+bCategory:00
+callType:01
+disconnectparty:00
+camelphase:03
+typeOfSubscribers:01
+audioDataType:00
+usertype:02
+recordNumber:130928
+chargeLevel:00
+b-ch-number:01
+ncnpFlag:02
+intermediateChargingInd:00
+mscOutgoingROUTENumber:5E
+mscIncomingROUTENumber:5E
+redirectingCounter:00
+chargePulses:00

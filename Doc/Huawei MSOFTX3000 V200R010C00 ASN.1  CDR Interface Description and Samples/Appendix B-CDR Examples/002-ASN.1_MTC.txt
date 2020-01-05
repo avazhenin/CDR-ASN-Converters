@@ -1,0 +1,49 @@
+cdr_type: mtCallRecord
+recordType:01
+servedIMSI:460077552000464
+servedMSISDN:(91)8613905520464
+callingNumber:(91)8613905228809
+recordingEntity:(91)8613900022
+mscIncomingROUTE:( 52 4E 43 33 34)
+mscOutgoingROUTE:( 52 4E 43 33 34)
+location:(LAC: 00 22	CELLID: 00 22)
+basicService:( 11)
+supplServicesUsed:300E80011181090103041507442B0800
+msClassmark:575881
+seizureTime:2001-03-04 15:07:41 + 0800
+answerTime:2001-03-04 15:07:44 + 0800
+releaseTime:2001-03-04 15:08:17 + 0800
+callDuration:33
+causeForTerm:00
+diagnostics:80020090
+callReference:00160001FE27
+additionalChgInfo:800102
+networkCallReference:1601B20800AA
+mSCAddress:916831090022
+systemType:01
+guaranteedBitRate:71
+maximumBitRate:6A
+chargedParty:01
+chargeAreaCode:86755F
+roamingNumber:(A1)13900022405
+orgRNCorBSCId:002200
+callEmlppPriority:01
+globalAreaID:64F04300220022
+subscriberCategory:0A
+firstmccmnc:64F043
+lastmccmnc:64F043
+setupTime:2001-03-04 15:07:36 + 0800
+alertingTime:2001-03-04 15:07:41 + 0800
+calledNumber:(81)13905520464
+bCategory:00
+callType:01
+disconnectparty:00
+typeOfSubscribers:01
+audioDataType:00
+usertype:00
+recordNumber:130883
+chargeLevel:00
+b-ch-number:01
+intermediateChargingInd:00
+mscOutgoingROUTENumber:22
+mscIncomingROUTENumber:22

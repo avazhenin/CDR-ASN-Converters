@@ -1,0 +1,70 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: MOCallRecord
+recordType: 00
+servedIMSI: 47001204000001
+servedIMEI: 360002040000010
+servedMSISDN: (91)8623320400001
+callingNumber: (91)8623320400001
+calledNumber: (81)23320400002
+roamingNumber: (A1)13975205323
+recordingEntity: (91)8613975205
+mscIncomingROUTE: {ROUTE_Number:16(Decimal)}
+mscOutgoingROUTE: {ROUTE_Number:16(Decimal)}
+location: (LAC: 11 01	CELLID: 00 01)
+changeOfLocation: 
+{
+        { ChangeTime:2009-09-24 22:51:02 + 1400 (LAC: 11 02	CELLID: 00 01) }
+}
+basicService: (11)
+msClassmark: 001000
+seizureTime: 2009-09-24 22:50:46 + 1400
+answerTime: 2009-09-24 22:50:52 + 1400
+releaseTime: 2009-09-24 22:51:03 + 1400
+callDuration: 11(Decimal)
+radioChanRequested: 00(Decimal)
+radioChanUsed: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 03E8000004B1
+additionalChgInfo: (02)
+networkCallReference: 00A3015110
+mSCAddress: (91)8613975205
+speechVersionSupported: 01
+speechVersionUsed: 01
+systemType: 02(Decimal)
+chargedParty: 00(Decimal)
+mscOutgoingCircuit: 09(Decimal)
+orgRNCorBSCId: 00111B
+orgMSCId: 005410
+callerDefaultEmlppPriority: 01
+callerportedflag: 00(Decimal)
+calledIMSI: 47001204000002
+globalAreaID: 64F00011010001
+changeOfglobalAreaID: 
+{
+        { location:64 F0 00 11 02 00 01 ChangeTime:2009-09-24 22:51:02 + 1400 }
+}
+subscriberCategory: 0A
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+setupTime: 2009-09-24 22:50:42 + 1400
+alertingTime: 2009-09-24 22:50:47 + 1400
+bCategory: 00(Decimal)
+callType: 01(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 01(Decimal)
+audioDataType: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 02(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+calledIMEI: 360002040000020
+redirectingcounter: 00(Decimal)
+**************************The End of CDR 1**************************
+

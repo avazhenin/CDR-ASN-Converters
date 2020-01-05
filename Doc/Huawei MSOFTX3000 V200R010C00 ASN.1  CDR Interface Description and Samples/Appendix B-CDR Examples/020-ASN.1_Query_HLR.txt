@@ -1,0 +1,10 @@
+cdr_type: hlrIntRecord
+recordType:0B
+servedIMSI:460881104008809
+servedMSISDN:(91)8613905228809
+recordingEntity:(91)8613900022
+routingNumber:810891683109002204F4
+interrogationTime:0103041502322B0800
+chargeAreaCode:000000
+callReference:00160001FE26
+recordNumber:130882

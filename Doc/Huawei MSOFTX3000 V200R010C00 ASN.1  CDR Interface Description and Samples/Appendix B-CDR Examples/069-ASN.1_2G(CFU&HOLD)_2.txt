@@ -1,0 +1,116 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: ForwardCallRecord
+recordType: 64
+servedIMSI: 460077552000201
+servedMSISDN: (90)8613905220201
+callingNumber: (A1)13905220203
+calledNumber: (A1)13905220202
+connectedNumber: (A1)13905220202
+roamingNumber: (A1)13900022038
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:AIETG_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:AIETG_BILLAUTO}
+basicService: (11)
+supplServicesUsed: 
+{
+        {SSCode:21 ssTime:2000-09-28 11:07:39 + 0800}
+}
+answerTime: 2000-09-28 11:07:39 + 0800
+releaseTime: 2000-09-28 11:07:45 + 0800
+callDuration: 06(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E4E
+additionalChgInfo: (02)
+networkCallReference: 1600E90800AA
+mSCAddress: (91)8613900022
+systemType: 00(Decimal)
+chargedParty: 00(Decimal)
+originalCalledNumber: (A0)13905220201
+mscOutgoingCircuit: 08(Decimal)
+orgMSCId: 00080A
+callerDefaultEmlppPriority: 01
+callerportedflag: 00(Decimal)
+calledIMSI: 460077552000202
+subscriberCategory: 0A
+cUGOutgoingAccessIndicator: 00
+setupTime: 2000-09-28 11:07:36 + 0800
+alertingTime: 2000-09-28 11:07:38 + 0800
+bCategory: 00(Decimal)
+callType: 01(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 36(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+calledIMEI: 354595000180200
+**************************The End of CDR 1**************************
+
+*************************The Start of CDR 2*************************
+Start_addr:0x182
+CDR_TYPE: MTCallRecord
+recordType: 01
+servedIMSI: 460077552000202
+servedIMEI: 354595000180200
+servedMSISDN: (91)8613905220202
+callingNumber: (A1)13905220203
+connectedNumber: (A1)13905220202
+recordingEntity: (91)8613900022
+mscIncomingROUTE: {ROUTE_NAME:AIETG_BILLAUTO}
+mscOutgoingROUTE: {ROUTE_NAME:AIETG_BILLAUTO}
+location: (LAC: 00 94	CELLID: 00 94)
+basicService: (11)
+msClassmark: 231801
+seizureTime: 2000-09-28 11:07:38 + 0800
+answerTime: 2000-09-28 11:07:39 + 0800
+releaseTime: 2000-09-28 11:07:45 + 0800
+callDuration: 06(Decimal)
+radioChanRequested: 01(Decimal)
+radioChanUsed: 00(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 1600043E4F
+additionalChgInfo: (02)
+networkCallReference: 1600E90800AA
+mSCAddress: (91)8613900022
+speechVersionSupported: 01
+speechVersionUsed: 01
+systemType: 02(Decimal)
+chargedParty: 01(Decimal)
+originalCalledNumber: (A0)13905220201
+chargeAreaCode: 86755F
+roamingNumber: (A1)13900022038
+orgRNCorBSCId: 009400
+orgMSCId: 00080A
+callEmlppPriority: 01
+callerportedflag: 00(Decimal)
+globalAreaID: 64F00000940094
+subscriberCategory: 0B
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+redirectingnumber: (A0)13905220201
+setupTime: 2000-09-28 11:07:36 + 0800
+alertingTime: 2000-09-28 11:07:38 + 0800
+calledNumber: (A1)13905220202
+bCategory: 00(Decimal)
+callType: 01(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+audioDataType: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 37(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+**************************The End of CDR 2**************************
+

@@ -1,0 +1,61 @@
+*************************The Start of CDR 1*************************
+Start_addr:0x1a
+CDR_TYPE: MTCallRecord
+recordType: 01
+servedIMSI: 470011000000001
+servedIMEI: 352331000000000
+servedMSISDN: (91)8623310000001
+callingNumber: (A1)23310000002
+recordingEntity: (91)8613975205
+mscIncomingROUTE: {ROUTE_Number:16(Decimal)}
+mscOutgoingROUTE: {ROUTE_Number:16(Decimal)}
+location: (LAC: 11 01	CELLID: 00 01)
+basicService: (11)
+msClassmark: 231801
+seizureTime: 2009-09-24 23:20:22 + 1400
+answerTime: 2009-09-24 23:20:27 + 1400
+releaseTime: 2009-09-24 23:20:37 + 1400
+callDuration: 10(Decimal)
+radioChanRequested: 01(Decimal)
+radioChanUsed: 01(Decimal)
+causeForTerm: 00
+diagnostics: (0090)
+callReference: 03E800000510
+additionalChgInfo: (02)
+networkCallReference: 00BB815110
+mSCAddress: (91)8613975205
+speechVersionSupported: 01
+speechVersionUsed: 01
+systemType: 02(Decimal)
+chargedParty: 01(Decimal)
+chargeAreaCode: 171FFF
+roamingNumber: (A1)13975205347
+mscIncomingCircuit: 04(Decimal)
+orgRNCorBSCId: 00111B
+orgMSCId: 005410
+callEmlppPriority: 01
+callerportedflag: 00(Decimal)
+globalAreaID: 64F00011010001
+subscriberCategory: 0A
+firstmccmnc: 64F000
+lastmccmnc: 64F000
+cUGOutgoingAccessIndicator: 00
+setupTime: 2009-09-24 23:20:15 + 1400
+alertingTime: 2009-09-24 23:20:22 + 1400
+calledNumber: (81)8623310000001
+bCategory: 00(Decimal)
+callType: 01(Decimal)
+disconnectparty: 00(Decimal)
+typeOfSubscribers: 00(Decimal)
+audioDataType: 00(Decimal)
+usertype: 00(Decimal)
+recordNumber: 06(Decimal)
+chargeLevel: 00(Decimal)
+b-ch-number: 01(Decimal)
+translatedNumber: (A1)23310000001
+ChannelMode: 00(Decimal)
+Channel: 00(Decimal)
+calledportedflag: 00(Decimal)
+intermediateChargingInd: 00(Decimal)
+**************************The End of CDR 1**************************
+

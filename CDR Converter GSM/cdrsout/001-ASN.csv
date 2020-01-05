@@ -1,0 +1,2 @@
+recordType;callingNumber;calledNumber;forwardNumber;callDuration;seizureTime;servedIMSI;servedIMEI;cellA;lacA;cellB;lacB;MSCAddress;mscIncomingROUTE;mscOutgoingROUTE;serviceCentre;callingPortedFlag;calledPortedFlag;
+00;8613905228809;13905520464;null;5;05.03.2001 11:49:20;460881104008809;null;34;34;null;null;8613900022;RNC34;RNC34;null;null;null;

@@ -1,0 +1,30 @@
+cdr_type: roamingRecord
+recordType:02
+servedIMSI:460077552000464
+servedMSISDN:(91)8613905520464
+Calling Number:(91)8613905228809
+roamingNumber:(A1)13900022407
+recordingEntity:(91)8613900022
+mscIncomingROUTE:( 52 4E 43 33 34)
+mscOutgoingROUTE:( 52 4E 43 33 34)
+basicService:( 11)
+supplServicesUsed:300E80011181090103041520182B0800
+answerTime:2001-03-04 15:20:18 + 0800
+releaseTime:2001-03-04 15:20:26 + 0800
+callDuration:08
+causeForTerm:00
+diagnostics:80020090
+callReference:00160001FE29
+networkCallReference:1601C10800AA
+mSCAddress:916831090022
+additionalChgInfo:800102
+chargedParty:01
+callEmlppPriority:01
+subscriberCategory:0A
+typeOfSubscribers:01
+userType:00
+recordNumber:130885
+chargeLevel:00
+intermediateChargingInd:00
+mscOutgoingROUTENumber:22
+mscIncomingROUTENumber:22

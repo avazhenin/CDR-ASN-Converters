@@ -1,0 +1,44 @@
+cdr_type: forwardCallRecord
+recordType:64
+servedIMSI:460881104008829
+servedMSISDN:(91)13907521129
+callingNumber:(91)13907521129
+calledNumber:(A1)13905520464
+connectedNumber:(91)8613905228809
+roamingNumber:(A1)13900022421
+recordingEntity:(91)8613900022
+mscIncomingROUTE:( 52 4E 43 33 34)
+mscOutgoingROUTE:( 52 4E 43 33 34)
+basicService:( 11)
+supplServicesUsed:{{ssCode:21 ssTime:2001-03-04 16:20:39 + 0800}}
+answerTime:2001-03-04 16:20:39 + 0800
+releaseTime:2001-03-04 16:20:43 + 0800
+callDuration:04
+causeForTerm:00
+diagnostics:80020090
+callReference:00160001FE2D
+additionalChgInfo:800102
+networkCallReference:1605F90800AA
+mSCAddress:916831090022
+systemType:00
+chargedParty:00
+originalCalledNumber:(A1)13907521129
+callEmlppPriority:01
+calledIMSI:460077552000464
+subscriberCategory:0A
+setupTime:2001-03-04 16:20:33 + 0800
+alertingTime:2001-03-04 16:20:36 + 0800
+bCategory:00
+callType:01
+disconnectparty:00
+camelphase:00FF
+typeOfSubscribers:01
+usertype:00
+recordNumber:130889
+chargeLevel:00
+b-ch-number:01
+ncnpFlag:02
+intermediateChargingInd:00
+mscOutgoingROUTENumber:22
+mscIncomingROUTENumber:22
+redirectingcounter:01

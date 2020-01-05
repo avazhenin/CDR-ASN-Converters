@@ -1,0 +1,24 @@
+cdr_type: moSMSRecord
+recordType:06
+servedIMSI:460077552000225
+servedMSISDN:(91)8613905220225
+serviceCentre:91683109250253
+recordingEntity:(91)8613900022
+location:(LAC: 00 94	CELLID: 00 94)
+messageReference:00
+originationTime:2001-03-05 10:10:37 + 0800
+destinationNumber:(91)13905220226
+systemType:02
+basicService:( 22)
+additionalChgInfo:800102
+chargedParty:00
+chargeAreaCode:000000
+orgRNCorBSCId:009400
+globalAreaID:64F00000940094
+subscriberCategory:0A
+firstmccmnc:64F000
+smsUserDataType:FF
+callReference:00160001FE3F
+typeOfSubscribers:01
+recordNumber:130914
+chargeLevel:00

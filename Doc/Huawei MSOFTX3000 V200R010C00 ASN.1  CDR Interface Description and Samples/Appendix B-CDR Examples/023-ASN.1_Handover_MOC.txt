@@ -1,0 +1,38 @@
+cdr_type: moCallRecord
+recordType:00
+servedIMSI:460002362009001
+servedMSISDN:(91)8613623629001
+callingNumber:(91)8613623629001
+calledNumber:(A1)13623629051
+roamingNumber:(A1)136755008033
+recordingEntity:(91)86136755008
+mscIncomingROUTE:{BSC81}
+mscOutgoingROUTE:{BSC81}
+location:(LAC: 56 01	CELLID: 00 01)
+changeOfLocation:{{(LAC: 00 00	CELLID: 00 00) ChangeTime:2007-12-23 16:08:06 + 0800}}
+basicService:( 11)
+msClassmark:021C00
+answerTime:2007-12-23 16:08:04 + 0800
+releaseTime:2007-12-23 16:08:17 + 0800
+callDuration:13
+radioChanRequested:01
+radioChanUsed:01
+causeForTerm:00
+diagnostics:( 00 90)
+callReference:650000009F
+additionalChgInfo:( 02)
+networkCallReference:65021C8035
+mSCAddress:(91)86136755008
+speechVersionSupported:01
+speechVersionUsed:01
+systemType:02
+chargedParty:00
+orgRNCorBSCId:610C
+orgMSCId:600C
+callerDefaultEmlppPriority:01
+calledIMSI:460002362009051
+globalAreaID:64F00056010001
+changeOfglobalAreaID:3014800764F0000000000081090712231608062B0800
+subscriberCategory:0A
+firstmccmnc:64F000
+lastmccmnc:64F000

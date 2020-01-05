@@ -1,0 +1,51 @@
+cdr_type: moCallRecord
+recordType:00
+servedIMSI:460077552000201
+servedMSISDN:(91)8613905220201
+callingNumber:(91)8613905220201
+calledNumber:(81)112
+translatedNumber:(A1)28420259
+recordingEntity:(91)8613900022
+mscIncomingROUTE:( 41 49 45 54 47 5F 42 49 4C 4C 41 55 54 4F)
+mscOutgoingROUTE:( 4E 37 54 47 5F 50 53 54 4E 5F 42 49 4C 4C 41 55 54 4F)
+location:(LAC: 00 94	CELLID: 00 94)
+basicService:( 12)
+seizureTime:2001-03-05 10:02:32 + 0800
+answerTime:2001-03-05 10:02:32 + 0800
+releaseTime:2001-03-05 10:02:35 + 0800
+callDuration:03
+radioChanRequested:03
+radioChanUsed:00
+causeForTerm:00
+diagnostics:80020090
+callReference:00160001FE3E
+additionalChgInfo:800100
+networkCallReference:1608190800AA
+mSCAddress:916831090022
+speechVersionSupported:25
+speechVersionUsed:21
+systemType:02
+chargedParty:00
+mscOutgoingCircuit:0E
+orgRNCorBSCId:009400
+callEmlppPriority:06
+globalAreaID:64F00000940094
+subscriberCategory:0A
+firstmccmnc:64F000
+lastmccmnc:64F000
+setupTime:2001-03-05 10:02:31 + 0800
+alertingTime:2001-03-05 10:02:32 + 0800
+bCategory:00
+callType:03
+disconnectparty:00
+camelphase:00FF
+typeOfSubscribers:01
+audioDataType:00
+usertype:00
+recordNumber:130913
+chargeLevel:00
+b-ch-number:01
+intermediateChargingInd:00
+mscOutgoingROUTENumber:21
+mscIncomingROUTENumber:5E
+redirectingCounter:00
